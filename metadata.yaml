@@ -1,0 +1,35 @@
+_repo: Op-sculos-por-Alexandre-Herculano---Tomo-09_18330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herculano, Alexandre
+    aliases:
+    - Araujo, Alexandre Herculano de Carvalho e
+    - Herculano, Alejandro
+    - De Carvalho e Araújo, Alexandre Herculano
+    - Carvalho e Araujo, Alexandre Herculano de
+    - Herculano, A. (Alexandre)
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '3118'
+    url: http://www.gutenberg.org/2009/agents/3118
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Alexandre_Herculano
+    - http://en.wikipedia.org/wiki/Alexandre_Herculano_de_Carvalho_e_Araujo
+description: ''
+gutenberg_issued: '2006-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18330'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese literature -- 19th century'
+- !lcc 'PQ'
+title: Opúsculos por Alexandre Herculano - Tomo 09
+url: http://www.gutenberg.org/ebooks/18330
